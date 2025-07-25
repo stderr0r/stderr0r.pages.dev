@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+    {% block css %}
+    <link rel="stylesheet" href="{{ get_url(path="style.css", trailing_slash=false) | safe }}">
+    {% endblock css %}
+</head>
+<body>
+    <header>
+        <h1>{{ config.title }}</h1>
+    </header>
+    <main>
+        {% block content %}
+        {% endblock content %}
+    </main>
+</body>
+</html>
