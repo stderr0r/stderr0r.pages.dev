@@ -4,7 +4,9 @@
 ## about
 name: stderr0r (旧名: st21r)
 
-大学生です。セキュリティに興味があり、最近は主にCTFをしています。昔は競技プログラミング・アプリ開発 (Android) などをしていました。
+非情報系の大学生です。情報セキュリティに興味があり、最近は主にCTFへの参加を行っています。
+
+高校生時代は競技プログラミング・アプリ開発 (Android) などをしていました。
 
 ## achievements
 - 応用情報技術者
@@ -16,28 +18,21 @@ name: stderr0r (旧名: st21r)
 - TsukuCTF2025 国内学生4位
 - セキュリティ・キャンプ全国大会2024 専門Cクラス参加
 
-## langage
-- C
-- C++
-- Python
-- Java
-- Kotlin
-
 ## works
-過去に作ったAndroidアプリです
+過去に作成したAndroidアプリです
 
-[英単語レンズ (Android)](https://play.google.com/store/apps/details?id=io.github.bjxytw.wordlens)
+[英単語レンズ (Google Play)](https://play.google.com/store/apps/details?id=io.github.bjxytw.wordlens)
 - OCRで高速に検索できる英和辞書アプリ DL数8000↑
 
-[Tab ToDo (Android)](https://play.google.com/store/apps/details?id=io.github.bjxytw.tabtodo)
+[Tab ToDo (Google Play)](https://play.google.com/store/apps/details?id=io.github.bjxytw.tabtodo)
 - タブ別にタスクの管理とリマインダーの設定ができる
 
 ## links
-[X (Twitter)](https://x.com/stderr0r)
+[Twitter (X)](https://x.com/stderr0r)
 
 [GitHub](https://github.com/stderr0r)
 
-[GitHub(旧)](https://github.com/st21r)
+[GitHub (旧)](https://github.com/st21r)
 
 [AtCoder](https://atcoder.jp/users/sk4rd)
 
