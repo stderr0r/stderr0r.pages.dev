@@ -4,7 +4,7 @@ MIT License: https://github.com/Speyll/suCSS/blob/main/LICENSE
 
 :root,
 ::backdrop {
-  --mono-font: "MesloLGS NF", Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+  --mono-font: "Noto Sans", "MesloLGS NF", Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
   --standard-border-radius: 5px;
 
   /* default colors */

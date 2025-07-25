@@ -15,7 +15,6 @@ name: stderr0r (旧名: st21r)
 - Cognitivehack2025 チーム総合4位
 - TsukuCTF2025 国内学生4位
 - セキュリティ・キャンプ全国大会2024 専門Cクラス参加
-- 第20回情報危機管理コンテスト 決勝進出
 
 ## langage
 - C
