@@ -13,10 +13,11 @@ name: stderr0r (旧名: st21r)
 - AtCoder 水色 (highest:1417)
 - pck2021 本戦出場
 - SuperComputingContest2021 本戦2位
+- セキュリティ・キャンプ全国大会2024 専門Cクラス参加
 - Cognitivehack2024 チーム総合3位
 - Cognitivehack2025 チーム総合4位
-- TsukuCTF2025 国内学生4位
-- セキュリティ・キャンプ全国大会2024 専門Cクラス参加
+- TsukuCTF2025 チーム国内学生4位
+- SECCON Beginners CTF 2025 ソロ参加12位
 
 ## works
 過去に作成したAndroidアプリです
