@@ -17,7 +17,10 @@ name: stderr0r (旧名: st21r)
 - Cognitivehack2024 チーム総合3位
 - Cognitivehack2025 チーム総合4位
 - TsukuCTF2025 チーム国内学生4位
-- SECCON Beginners CTF 2025 ソロ参加12位
+- SECCON Beginners CTF 2025 12位（個人）
+- FFRI × NFLabs. Cybersecurity Challenge 2025 総合5位（個人）
+- MWS Cup 2025 総合優勝（チーム Яインテリ茶筅R しす”たけ）
+- SECCON CTF 14 quals 34位（Team Enu）
 
 ## works
 過去に作成したAndroidアプリです
